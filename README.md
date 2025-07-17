@@ -1,4 +1,6 @@
 # 🧠 Medical AI Report Summarizer
+![Built with NLP & Tesserat OCR](https://img.shields.io/badge/NLP%20and-Tesserat%20OCR-blueviolet?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge)
 
 **Medical AI Report Summarizer** is a smart web application that allows users to upload medical reports (PDF, JPG, PNG), automatically extract text, highlight medical terms, and generate an AI-based summary. Users can also export the final summary as a clean PDF. This project is designed to assist patients and doctors in quickly understanding lengthy medical documents.
 
